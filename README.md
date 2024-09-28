@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sarthakbgupta777@gmail.com**
 
-- ⚡ Fun fact **Finding Myself**
+- ⚡ Fun fact **I am Finding Myself**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
