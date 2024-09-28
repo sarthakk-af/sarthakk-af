@@ -1,4 +1,4 @@
-![logo](https://github.com/sarthakk-af/sarthakk-af/blob/main/myyself.gif)
+![logo](https://github.com/sarthakk-af/sarthakk-af/blob/main/newme.gif)
 <h1 align="center">Hi 👋, I'm Sarthak B Gupta</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
