@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm <a href="https://github.com/sarthakk-af">Sarthak B Gupta</a> 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/sarthakk-af/sarthakk-af/blob/main/newme.gif" alt="Sarthak B Gupta" />
-</p>
+
 
 <h3 align="center">A Passionate Developer from India 🇮🇳</h3>
 ---
