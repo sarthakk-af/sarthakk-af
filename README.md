@@ -15,7 +15,6 @@
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-gupta" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40"/></a>
-<a href="https://instagram.com/sarthakk.af" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40"/></a>
 </p>
 
 ---
